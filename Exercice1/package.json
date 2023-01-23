@@ -1,0 +1,22 @@
+{
+  "name": "node-script-template",
+  "version": "1.0.0",
+  "description": "",
+  "main": "script.js",
+  "type": "module",
+  "scripts": {
+    "start": "node script.js",
+    "start-args": "node script.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@apollo/client": "^3.7.4",
+    "axios": "^1.2.2",
+    "commander": "^7.2.0",
+    "console-stamp": "^3.0.3",
+    "dotenv": "^16.0.3",
+    "graphql": "^16.6.0",
+    "graphql-request": "^5.1.0"
+  }
+}
